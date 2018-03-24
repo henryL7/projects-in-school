@@ -1,4 +1,4 @@
-#Chat Room
+# Chat Room
 ## A toy system for course "Computer Network" in Fudan University
 ### window.py: client side, each client can select one or more other clients to send message.
 ### server.py: server side, using multi-threads to handle multiple clients.
